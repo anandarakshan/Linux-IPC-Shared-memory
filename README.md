@@ -130,7 +130,7 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ```
 $./shm.o
 ```
-![](./out11.png)
+![alt text](out11.png)
 ```
 $./shmry2.o
 ```
