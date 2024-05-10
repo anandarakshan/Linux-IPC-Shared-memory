@@ -127,7 +127,17 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 }
 ```
 ## OUTPUT
+```
+$./shm.o
+```
 ![](./out11.png)
+```
+$./shmry2.o
+```
+![](./out33.png)
+```
+$ipcs
+```
 ![](./out22.png)
 # RESULT:
 The program is executed successfully.
