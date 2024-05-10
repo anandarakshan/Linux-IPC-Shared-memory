@@ -136,7 +136,7 @@ $./shmry2.o
 ```
 ![](./out33.png)
 ```
-$ipcs
+$ipc
 ```
 ![](./out22.png)
 # RESULT:
